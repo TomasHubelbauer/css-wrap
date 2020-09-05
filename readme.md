@@ -37,3 +37,13 @@ Elements sit atop one another and also break lines as needed independently:
  | [me]                |
  |_____________________|
 ```
+
+## To-Do
+
+### Fix the short-first-bug
+
+If the first element is short and only the second element breaks lines, it will stack
+next to the first element instead of flowing on the second line where the first element
+didn't break line into.
+
+I'm not sure if this is even solvable using CSS.
