@@ -1,4 +1,4 @@
-# CSS Wrapp
+# CSS Wrap
 
 Making it so that the two children of a container will sit one after another as
 long as they both fit length-wise. If they do not, they will sit atop one
